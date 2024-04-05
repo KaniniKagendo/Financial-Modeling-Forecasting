@@ -1,4 +1,4 @@
-**KAPCHORUA Tea Company Financial Modelling and Time Series Forecasting**
+# KAPCHORUA Tea Company Financial Modelling and Time Series Forecasting
 
 Welcome to the KAPCHORUA Tea Company Financial Modelling and Time Series Forecasting project! This repository is dedicated to building a comprehensive financial model and forecasting tool specifically tailored for KAPCHORUA Tea Company, a prominent entity in Kenya's agricultural sector.
 
